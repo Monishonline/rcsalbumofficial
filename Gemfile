@@ -47,3 +47,9 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+gem 'haml', '~> 4.0', '>= 4.0.7'
+gem 'simple_form', '~> 3.4'
+gem 'paperclip', '~> 5.1'
+gem 'devise', '~> 4.2'
+gem 'coffee-script-source', '1.8.0'
